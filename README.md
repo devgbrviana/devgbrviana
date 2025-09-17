@@ -1,8 +1,9 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">Sobre Mim</h2>
 
 ###
 
-<p align="left">Bem-vindo ao meu GitHub! 🚀<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta, apaixonado por Inteligência Artificial, back-end e automação. Aqui você encontra meus projetos, estudos e experimentos focados em IA e desenvolvimento de sistemas.</p>
+<p align="left">Me Chamo Gabriel Viana
+Bem-vindo ao meu GitHub! 🚀<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta, apaixonado por Inteligência Artificial, back-end e automação. Aqui você encontra meus projetos, estudos e experimentos focados em IA e desenvolvimento de sistemas.</p>
 
 ###
 
