@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me Chamo Gabriel Viana
+<p align="left">Me Chamo Gabriel Viana,
 Bem-vindo ao meu GitHub! 🚀<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta, apaixonado por Inteligência Artificial, back-end e automação. Aqui você encontra meus projetos, estudos e experimentos focados em IA e desenvolvimento de sistemas.</p>
 
 ###
