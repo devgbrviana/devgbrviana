@@ -1,50 +1,130 @@
-<h2 align="left">Sobre Mim</h2>
+# 👨🏻‍💻 Gabriel de Souza Viana
 
-###
+**`Student of Systems Analysis and Development`**
 
-<p align="left">Me Chamo Gabriel Viana,
-Bem-vindo ao meu GitHub! 🚀<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta, apaixonado por Inteligência Artificial, back-end e automação. Aqui você encontra meus projetos.</p>
+My name is Gabriel de Souza Viana, I am currently 20 years old and I was born in Barueri, São Paulo. I finished high school and I am currently studying Systems Analysis and Development at Faculdade Impacta. I am passionate about technology and I share my knowledge here.
 
-###
+<p align="left">
+    <a href="https://github.com/devgbrviana?tab=stars">
+        <img 
+            alt="Total de estrelas" 
+            title="Total Stars on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/devgbrviana?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/devgbrviana?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/devgbrviana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-<p align="left">Techs</p>
+---
 
-###
+### 🤖 Languages ​​and Technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
 
-###
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL Server"
+    title="SQL Server" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
 
-<p align="left">Estatisticas</p>
+<br/>
+<br/>
 
-###
+### 📊 Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devgbrviana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devgbrviana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devgbrviana&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="170" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=devgbrviana&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-###
-
-<h2 align="left">Social Midia</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-de-souza-viana-090b37285/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgbrviana&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
