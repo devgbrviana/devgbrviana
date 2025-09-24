@@ -2,7 +2,7 @@
 
 **`Student of Systems Analysis and Development`**
 
-My name is Gabriel de Souza Viana, I am currently 20 years old and I was born in Barueri, São Paulo. I finished high school and I am currently studying Systems Analysis and Development at Faculdade Impacta. I am passionate about technology and I share my knowledge here.
+Meu nome é Gabriel de Souza Viana, tenho 28 anos e nasci em Barueri, São Paulo. Concluí o ensino médio e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta. Sou apaixonado por tecnologia, estou sempre aprendendo coisas novas e compartilho meus conhecimentos aqui no GitHub.
 
 <p align="left">
     <a href="https://github.com/devgbrviana?tab=stars">
